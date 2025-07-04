@@ -1,7 +1,7 @@
 //BMI算出データ宣言
-weight = 68;
-tall = 1.7;
-bmi = (weight) / (tall * tall);
+let weight = 68;
+let tall = 1.7;
+let bmi = (weight) / (tall * tall);
 
 
 
